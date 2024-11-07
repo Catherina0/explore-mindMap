@@ -1,5 +1,5 @@
 # 一个基于Vue3.2 + ElementPlus的Web思维导图
-
+## AI功能正在开发.ing  
 ## 项目预览
 ### 项目地址：[思维导图](https://huangyuanyin.gitee.io/hyy-vue3-mindmap/#/)
 ![image](https://github.com/huangyuanyin/hyy-vue3-mindMap/assets/42410679/de1f7a5c-b9a8-443c-ada7-ba85728f6760)

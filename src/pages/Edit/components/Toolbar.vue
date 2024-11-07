@@ -59,6 +59,13 @@
           <span class="text">{{ $t('toolbar.shortcutKey') }}</span>
         </div> -->
       </div>
+      <el-button 
+        type="primary" 
+        @click="$emit('toggle-ai-dialog')"
+        icon="ChatLineRound"
+      >
+        AI 助手
+      </el-button>
     </div>
     <NodeImage></NodeImage>
     <NodeHyperlink></NodeHyperlink>
